@@ -181,7 +181,7 @@ python main.py
 
 </details>
 
-## 项目还有很多bug，希望大家能够及时反馈
+## 项目还有很多bug，希望大家能够及时反馈。
 
 项目地址：https://github.com/LC044/WeChatMsg
 
